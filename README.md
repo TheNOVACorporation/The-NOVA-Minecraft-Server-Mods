@@ -2,99 +2,104 @@
 # The NOVA Server Modlist
 
 ## World Generation & Structures (Client & Server)
-- Better Desert Temples
-- Better Dungeons
-- Better End Island
-- Better Jungle Temples
-- Better Mineshafts
-- Better Nether Fortresses
-- Better Ocean Monuments
-- Better Strongholds
-- Better Witch Huts
-- Biomes O' Plenty (Requires: TerraBlender)
-- Dungeons Arise (Requires: Structure Gel API)
-- Structory
-- Terralith
-- TerraBlender
-- Yung's Bridges
-- Yung's Extras
-- Twigs
+- [Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples) (`/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar`)
+- [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) (`/YungsBetterDungeons-1.20-Forge-4.0.4.jar`)
+- [Better End Island](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island) (`/YungsBetterEndIsland-1.20-Forge-2.0.6.jar`)
+- [Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples) (`/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar`)
+- [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge) (`/YungsBetterMineshafts-1.20-Forge-4.0.4.jar`)
+- [Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses) (`/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar`)
+- [Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments) (`/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar`)
+- [Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds) (`/YungsBetterStrongholds-1.20-Forge-4.0.3.jar`)
+- [Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts) (`/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar`)
+- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) (`/BiomesOPlenty-1.20.1-18.0.0.592.jar`) (Requires: TerraBlender)
+- [Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) (`/DungeonsArise-1.20.x-2.1.58-release.jar`) (Requires: Structure Gel API)
+- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory) (`/Structory_1.20.x_v1.3.5.jar`)
+- [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) (`/Terralith_1.20.x_v2.5.4.jar`)
+- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) (`/TerraBlender-forge-1.20.1-3.0.1.7.jar`)
+- [Yung's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges) (`/YungsBridges-1.20-Forge-4.0.3.jar`)
+- [Yung's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) (`/YungsExtras-1.20-Forge-4.0.3.jar`)
+- [Twigs](https://www.curseforge.com/minecraft/mc-mods/twigs) (`/Twigs-1.20.1-3.1.0.jar`)
 
 ## Technology & Magic (Client & Server)
-- Ars Nouveau (Requires: Citadel, Curios, GeckoLib)
-- Blood Magic (Requires: Patchouli)
-- Brandon's Core (Required by: Draconic Evolution)
-- Building Gadgets 2
-- Cyclic
-- Draconic Evolution
-- Ender IO
-- Flux Networks
-- Iron Jetpacks
-- Mekanism (+ Additions, Generators, Tools, Weapons)
-- Mystical Agriculture
-- Steam Rails
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) (`/ars_nouveau-1.20.1-4.12.6-all.jar`) (Requires: Citadel, Curios, GeckoLib)
+- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic) (`/bloodmagic-1.20.1-3.3.3-45.jar`) (Requires: Patchouli)
+- [Brandon's Core](https://www.curseforge.com/minecraft/mc-mods/brandons-core) (`/BrandonsCore-1.20.1-3.2.1.302-universal.jar`) (Required by: Draconic Evolution)
+- [Building Gadgets 2](https://www.curseforge.com/minecraft/mc-mods/building-gadgets-2) (`/buildinggadgets2-1.0.7.jar`)
+- [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) (`/Cyclic-1.20.1-1.13.3.jar`)
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) (`/Draconic-Evolution-1.20.1-3.1.2.598-universal.jar`)
+- [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) (`/EnderIO-1.20.1-6.2.7-beta-all.jar`)
+- [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) (`/FluxNetworks-1.20.1-7.2.1.15.jar`)
+- [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks) (`/IronJetpacks-1.20.1-7.0.8.jar`)
+- Mekanism Suite:
+  - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) (`/Mekanism-1.20.1-10.4.13.69.jar`)
+  - [Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions) (`/MekanismAdditions-1.20.1-10.4.13.69.jar`)
+  - [Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) (`/MekanismGenerators-1.20.1-10.4.13.69.jar`)
+  - [Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools) (`/MekanismTools-1.20.1-10.4.13.69.jar`)
+  - [Weapons](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapons) (`/MekanismWeapons-1.20.1-1.5.jar`)
+- [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture) (`/MysticalAgriculture-1.20.1-7.0.15.jar`)
+- [Steam Rails](https://www.curseforge.com/minecraft/mc-mods/steam-rails) (`/Steam_Rails-1.6.7+forge-mc1.20.1.jar`)
 
 ## Combat & Equipment (Client & Server)
-- Apotheosis
-- Artifacts
-- Better Combat
-- Mutant Monsters
-- Spartan Shields
-- Spartan Weaponry
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) (`/Apotheosis-1.20.1-7.4.3.jar`)
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) (`/artifacts-forge-9.5.13.jar`)
+- [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus) (`/bettercombat-forge-1.8.6+1.20.1.jar`)
+- [Mutant Monsters](https://www.curseforge.com/minecraft/mc-mods/mutant-monsters) (`/MutantMonsters-v8.0.7-1.20.1-Forge.jar`)
+- [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields) (`/SpartanShields-1.20.1-forge-3.1.1.jar`)
+- [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry) (`/SpartanWeaponry-1.20.1-forge-3.1.3-all.jar`)
 
 ## Storage & Utility
-- Framed Blocks (Client & Server)
-- Jade (Client Only)
-- Mouse Tweaks (Client Only)
-- Neat (Client Only)
-- Storage Drawers (Client & Server)
-- Security Craft (Client & Server)
+- [Framed Blocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks) (`/FramedBlocks-9.3.1.jar`) (Client & Server)
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (`/Jade-1.20.1-forge-11.11.1.jar`) (Client Only)
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (`/MouseTweaks-forge-mc1.20.1-2.25.1.jar`) (Client Only)
+- [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) (`/Neat-1.20.1-41-FORGE.jar`) (Client Only)
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) (`/StorageDrawers-1.20.1-12.9.13.jar`) (Client & Server)
+- [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft) (`/[1.20.1] SecurityCraft v1.9.12.jar`) (Client & Server)
 
 ## Food & Farming (Client & Server)
-- Croptopia
-- Farmer's Delight
-- Delightful
-- Pig Pen
+- [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia) (`/Croptopia-1.20.1-FORGE-3.0.4.jar`)
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) (`/FarmersDelight-1.20.1-1.2.6.jar`)
+- [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) (`/Delightful-1.20.1-3.6.1.jar`)
+- [Pig Pen](https://www.curseforge.com/minecraft/mc-mods/pig-pen-forge) (`/PigPen-Forge-1.20.1-15.0.2.jar`)
 
 ## Quality of Life
-- ApothicAttributes (Client & Server)
-- Attribute Fix (Client & Server)
-- Bookshelf (Client & Server)
-- Clumps (Client Only)
-- Controlling (Client Only)
-- Crystal Clear (Client Only)
-- Cucumber (Client & Server)
-- Dark Utilities (Client & Server)
-- Patchouli (Client Only)
-- Searchables (Client Only)
-- Apple Skin (Client Only)
-- Backpacked (Client & Server)
-- Bells and Whistles (Client & Server)
+- [ApothicAttributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes) (`/ApothicAttributes-1.20.1-1.3.7.jar`) (Client & Server)
+- [Attribute Fix](https://www.curseforge.com/minecraft/mc-mods/attributefix) (`/AttributeFix-Forge-1.20.1-21.0.4.jar`) (Client & Server)
+- [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) (`/Bookshelf-Forge-1.20.1-20.2.13.jar`) (Client & Server)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) (`/Clumps-forge-1.20.1-12.0.0.4.jar`) (Client Only)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) (`/Controlling-forge-1.20.1-12.0.2.jar`) (Client Only)
+- [Crystal Clear](https://www.curseforge.com/minecraft/mc-mods/crystal-clear) (`/Crystal-Clear-2.1-Beta-forge.jar`) (Client Only)
+- [Cucumber](https://www.curseforge.com/minecraft/mc-mods/cucumber) (`/Cucumber-1.20.1-7.0.13.jar`) (Client & Server)
+- [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) (`/DarkUtilities-Forge-1.20.1-17.0.5.jar`) (Client & Server)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (`/Patchouli-1.20.1-84-FORGE.jar`) (Client Only)
+- [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) (`/Searchables-forge-1.20.1-1.0.3.jar`) (Client Only)
+- [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (`/appleskin-forge-mc1.20.1-2.5.1.jar`) (Client Only)
+- [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked) (`/backpacked-forge-1.20.1-2.2.5.jar`) (Client & Server)
+- [Bells and Whistles](https://www.curseforge.com/minecraft/mc-mods/bells-and-whistles) (`/bellsandwhistles-0.4.3-1.20.x.jar`) (Client & Server)
 
 ## Adventure & Exploration (Client & Server)
-- Aether
-- Blue Skies
-- Explorer's Compass
-- Nature's Compass
-- Quark
+- [Aether](https://www.curseforge.com/minecraft/mc-mods/aether) (`/aether-1.20.1-1.5.1-neoforge.jar`)
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies) (`/blue_skies-1.20.1-1.3.31.jar`)
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) (`/ExplorersCompass-1.20.1-1.3.3-forge.jar`)
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (`/NaturesCompass-1.20.1-1.11.2-forge.jar`)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (`/Quark-4.0-460.jar`)
 
 ## Libraries & APIs (Client & Server)
-- Architectury API (Required by: many mods)
-- Athena (Required by: Mystical Agriculture)
-- Balm (Required by: multiple utility mods)
-- Botarium (Required by: multiple tech mods)
-- Caelus API (Required by: Iron Jetpacks)
-- Citadel (Required by: Ars Nouveau, other mods)
-- Cloth Config (Required by: multiple mods)
-- CodeChicken Lib (Required by: Mekanism)
-- Ephero Lib (Required by: Blood Magic)
-- Puzzles Lib (Required by: multiple mods)
-- Smart Brain Lib (Required by: Mutant Monsters)
-- Yung's API (Required by: all Yung's mods)
-- Zeta (Required by: multiple mods)
-- GeckoLib (Required by: Ars Nouveau)
-- Curios API (Required by: multiple mods)
-- Placebo (Required by: multiple mods)
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) (`/architectury-9.2.14-forge.jar`) (Required by: many mods)
+- [Athena](https://www.curseforge.com/minecraft/mc-mods/athena) (`/athena-forge-1.20.1-3.1.2.jar`) (Required by: Mystical Agriculture)
+- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) (`/balm-forge-1.20.1-7.3.10-all.jar`) (Required by: multiple utility mods)
+- [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium) (`/botarium-forge-1.20.1-2.3.4.jar`) (Required by: multiple tech mods)
+- [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus) (`/caelus-forge-3.1.0+1.20.jar`) (Required by: Iron Jetpacks)
+- [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (Required by: Ars Nouveau, other mods)
+- [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) (Required by: multiple mods)
+- [CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8) (`/CodeChickenLib-1.20.1-4.4.0.516-universal.jar`) (Required by: Mekanism)
+- [Ephero Lib](https://www.curseforge.com/minecraft/mc-mods/epherolib) (`/EpheroLib-1.20.1-FORGE-1.2.0.jar`) (Required by: Blood Magic)
+- [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) (`/PuzzlesLib-v8.1.25-1.20.1-Forge.jar`) (Required by: multiple mods)
+- [Smart Brain Lib](https://www.curseforge.com/minecraft/mc-mods/smart-brain-lib) (`/SmartBrainLib-forge-1.20.1-1.15.jar`) (Required by: Mutant Monsters)
+- [Yung's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api) (`/YungsApi-1.20-Forge-4.0.6.jar`) (Required by: all Yung's mods)
+- [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) (`/Zeta-1.0-24.jar`) (Required by: multiple mods)
+- [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) (Required by: Ars Nouveau)
+- [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) (Required by: multiple mods)
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (`/Placebo-1.20.1-8.6.2.jar`) (Required by: multiple mods)
 
 Note: 
 - Client Only: These mods are only required on the client side
