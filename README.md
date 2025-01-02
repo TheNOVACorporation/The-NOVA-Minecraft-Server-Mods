@@ -11,8 +11,8 @@
 - Better Ocean Monuments
 - Better Strongholds
 - Better Witch Huts
-- Biomes O' Plenty
-- Dungeons Arise
+- Biomes O' Plenty (Requires: TerraBlender)
+- Dungeons Arise (Requires: Structure Gel API)
 - Structory
 - Terralith
 - TerraBlender
@@ -21,9 +21,9 @@
 - Twigs
 
 ## Technology & Magic (Client & Server)
-- Ars Nouveau
-- Blood Magic
-- Brandon's Core
+- Ars Nouveau (Requires: Citadel, Curios, GeckoLib)
+- Blood Magic (Requires: Patchouli)
+- Brandon's Core (Required by: Draconic Evolution)
 - Building Gadgets 2
 - Cyclic
 - Draconic Evolution
@@ -79,19 +79,22 @@
 - Quark
 
 ## Libraries & APIs (Client & Server)
-- Architectury API
-- Athena
-- Balm
-- Botarium
-- Caelus API
-- Citadel
-- Cloth Config
-- CodeChicken Lib
-- Ephero Lib
-- Puzzles Lib
-- Smart Brain Lib
-- Yung's API
-- Zeta
+- Architectury API (Required by: many mods)
+- Athena (Required by: Mystical Agriculture)
+- Balm (Required by: multiple utility mods)
+- Botarium (Required by: multiple tech mods)
+- Caelus API (Required by: Iron Jetpacks)
+- Citadel (Required by: Ars Nouveau, other mods)
+- Cloth Config (Required by: multiple mods)
+- CodeChicken Lib (Required by: Mekanism)
+- Ephero Lib (Required by: Blood Magic)
+- Puzzles Lib (Required by: multiple mods)
+- Smart Brain Lib (Required by: Mutant Monsters)
+- Yung's API (Required by: all Yung's mods)
+- Zeta (Required by: multiple mods)
+- GeckoLib (Required by: Ars Nouveau)
+- Curios API (Required by: multiple mods)
+- Placebo (Required by: multiple mods)
 
 Note: 
 - Client Only: These mods are only required on the client side
